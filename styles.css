@@ -1,1 +1,39 @@
 /* your code here */
+.content{
+	background-color:black;
+}
+.logo-details{
+	color:white;
+	font-size:30px;
+}
+.top{
+	display:flex;
+	justify-content:space-between;
+	align-items:flex-end;
+	padding:20px;
+}
+.media-icons{
+	display:flex;
+}
+.media-icons>div{
+	width:40px;
+	height:40px;
+	margin-inline:10px;
+	border-radius:50%;
+	background-color:blue;
+	color:white;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.bottom-details{
+	display:flex;
+	background-color:#2c303a;
+	color:#adafb2;
+	padding:20px;
+	justify-content:space-between;
+	
+}
+.link-boxes{
+	color:white;
+}
