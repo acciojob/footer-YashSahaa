@@ -39,7 +39,7 @@
 	width:100%;
 }
 .link-boxes>table>tbody>tr>td{
-	padding-left:30px;
+	text-align:center;
 }
 .link-boxes>table>thead>tr>th{
 	text-decoration:underline;
