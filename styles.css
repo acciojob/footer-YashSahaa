@@ -21,7 +21,6 @@
 	height:40px;
 	margin-inline:10px;
 	border-radius:50%;
-	background-color:blue;
 	color:white;
 	display:flex;
 	justify-content:center;
@@ -39,3 +38,6 @@
 	display:flex;
 	justify-content:space-around;
 }
+.link-boxes>div>h2{
+	text-decoration-line:underline;
+}	
