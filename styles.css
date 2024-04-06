@@ -1,6 +1,7 @@
 /* your code here */
 .content{
 	background-color:black;
+	padding:15px;
 }
 .logo-details{
 	color:white;
@@ -32,15 +33,9 @@
 	color:#adafb2;
 	padding:20px;
 	justify-content:space-between;
-	
 }
-.link-boxes>table{
+.link-boxes{
 	color:white;
-	width:100%;
-}
-.link-boxes>table>tbody>tr>td{
-	text-align:center;
-}
-.link-boxes>table>thead>tr>th{
-	text-decoration:underline;
+	display:flex;
+	justify-content:space-around;
 }
